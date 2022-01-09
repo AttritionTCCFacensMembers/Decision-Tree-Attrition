@@ -14,7 +14,8 @@ O código consiste em 3 partes, sendo elas:
   
   -Caso queira reproduzir o código, rode a parte 1 que irá te retornar um dataframe tratado e ele será o input para as partes 2 e 3. 
   
-  -A parte 2 é opcional pois demora cerca de 48hrs para executar todas as interações e irá retornar um arquivo (resultados gerais) com o catálogo de modelos.
+  -A parte 2 é opcional pois demora cerca de 48hrs para executar todas as interações e irá retornar um arquivo (resultados gerais) com o catálogo de modelos. Por garantia
+  o trecho demorado do código está comentado portanto caso queira rodar descomente.
   
   -A parte 3 irá gerar um modelo partindo dos melhore parametros encontrados na parte 2 (esses parâmetros ja estão selecionados no código para que não seja necessário rodar a parte2).
   
